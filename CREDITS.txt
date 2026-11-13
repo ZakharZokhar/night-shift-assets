@@ -1,0 +1,162 @@
+MUSIC CREDITS — DeepThread OS
+
+All tracks are sourced from the Free Music Archive (https://freemusicarchive.org)
+and used as-is (no modifications: no remixing, editing, looping, fading, or
+volume changes). Files were only re-encoded to 128 kbps MP3 for web delivery.
+
+License texts:
+  CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+  CC BY 4.0         — https://creativecommons.org/licenses/by/4.0/
+
+CC BY 4.0 tracks are used under the Attribution license; attribution is given
+below. CC0 tracks are released into the public domain and require no
+attribution, but their authors are credited here as a courtesy.
+
+--------------------------------------------------------------------------------
+
+"Side Quest to Nowhere" by HoliznaCC0
+  License: CC0 1.0 Universal
+  Source:  https://freemusicarchive.org/music/holiznacc0/we-drove-all-night-game-soundtrack/side-quest-to-nowhere/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Something In the Air" by HoliznaCC0
+  License: CC0 1.0 Universal
+  Source:  https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/something-in-the-air/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Still Waiting.. Player 2" by HoliznaCC0
+  License: CC0 1.0 Universal
+  Source:  https://freemusicarchive.org/music/holiznacc0/we-drove-all-night-game-soundtrack/still-waiting-player-2/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"We Drove All Night" by HoliznaCC0
+  License: CC0 1.0 Universal
+  Source:  https://freemusicarchive.org/music/holiznacc0/we-drove-all-night-game-soundtrack/we-drove-all-night/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Moonrise" by JMHBM
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/beat-mekanik/single/moonrise/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Lost" by KaizanBlu
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/kaizanblu/single/lost-3/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Luna" by KaizanBlu
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/kaizanblu/single/luna/
+  Changes: none (used as-is)
+
+"Midnight Drive" by KaizanBlu
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/kaizanblu/single/midnight-drive/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Nightfall" by KaizanBlu
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/kaizanblu/single/nightfall-1/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Clouds" by Kirk Osamayo
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/kirk-osamayo/season-one/clouds-3/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Night Time" by Kirk Osamayo
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/kirk-osamayo/season-one/night-time/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Polaroids" by Kirk Osamayo
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/kirk-osamayo/season-one/polaroids/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Spooky" by Kirk Osamayo
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/kirk-osamayo/season-one/spooky/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Attic Of The Universe" by Lo-Fi Astronaut
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/lo-fi-astronaut/lo-fi-and-beyond/attic-of-the-universe-lofi-retro/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Design For Dreaming" by Lo-Fi Astronaut
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/lo-fi-astronaut/lo-fi-and-beyond/design-for-dreaming-lofi-relaxing/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Phasing" by Lo-Fi Astronaut
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/lo-fi-astronaut/lo-fi-and-beyond/phasing-lofi-peaceful/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"Dream Diary" by Pamela Yuen
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/pamela-yuen/paws-for-a-while/dream-diary/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"No Map, Only Light" by Pamela Yuen
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/pamela-yuen/paws-for-a-while/no-map-only-light/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"blue moon" by snoozy beats
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/snoozy-beats/single/blue-moon-2/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"nighvision" by snoozy beats
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/snoozy-beats/single/nighvision/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"starry night" by snoozy beats
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/snoozy-beats/single/starry-night/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"tokyo nights" by snoozy beats
+  License: CC BY 4.0
+  Source:  https://freemusicarchive.org/music/snoozy-beats/single/tokyo-nights/
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+================================================================================
+
+SOUND EFFECTS
+
+"Soft UI Pop – light, minimal click" by humordome  (notification sound)
+  Source:  Pixabay Sound Effects
+  License: Pixabay Content License — https://pixabay.com/service/license-summary/
+  Attribution: not required
+  Changes: trimmed to first ~2 seconds, volume adjusted
+
+"Notification Sound (handmade)" by kila_vat  (message sound)
+  Source:  Freesound — https://freesound.org/
+  License: Creative Commons Attribution 4.0 International
+  Attribution: required
+  Changes: volume adjusted
+
+"Boot Sound" by GameAudio  (evidence-saved sound)
+  Source:  Freesound — https://freesound.org/
+  License: Creative Commons 0 (CC0)
+  Attribution: not required
+  Changes: used as evidence-save sound, volume adjusted
+
+================================================================================
+
+IN-GAME ARTWORK & MUSIC (Northroom Audio page)
+
+"Creep Down Let It Go" by Toyvi Yonansonn  (in-game release on northroom-audio.club/wrenegade)
+  Source:  provided by the author for use in this project
+  License: used with permission
+  Changes: none (re-encoded to 128 kbps MP3 for web delivery)
+
+"EternalFall" cover painting  (cover art on the same page)
+  Artist:  Victoria Zhuravleva
+  Source:  provided by the artist for use in this project
+  License: used with permission
+  Changes: resized and converted to WebP
